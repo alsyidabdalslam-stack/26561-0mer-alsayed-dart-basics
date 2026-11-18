@@ -12,9 +12,10 @@
 - D2: momoFee, maskPhone and receipt loop written and tested
 - E: both functions fixed and explained
 - F: formatRwf, isValidPin, sendMoney, buyAirtime and main written and tested
+- G: debugging log with 3 real errors and the longest-question answer
 
 ## In progress
-- G: debugging log (copying the real error messages)
+- Nothing, only final checks and the oral-check preparation
 
 ## Stuck on
 - Nothing at the moment
